@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ImageAnalysisApp/ImageAnalysisApp/bin/Debug/net10.0
+/ImageAnalysisApp/ImageAnalysisApp/obj
+/ImageAnalysisApp/.vs
+/.vs
